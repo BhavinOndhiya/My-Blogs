@@ -20,15 +20,15 @@ export default function Home({ blogs, topics }) {
   return (
     <>
       <Head>
-        <title>Bits-0f-C0de 🚀</title>
-        <meta name="title" content="Bits-0f-C0de 🚀" />
+        <title>My-Blogs 🚀</title>
+        <meta name="title" content="My-Blogs 🚀" />
         <meta
           name="description"
           content="Tech blogs and articles on various topics related to Software Development"
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Bits-0f-C0de 🚀" />
+        <meta property="og:title" content="My-Blogs 🚀" />
         <meta
           property="og:description"
           content="Tech blogs and articles on various topics related to Software Development"
@@ -39,7 +39,7 @@ export default function Home({ blogs, topics }) {
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:title" content="Bits-0f-C0de 🚀" />
+        <meta property="twitter:title" content="My-Blogs 🚀" />
         <meta
           property="twitter:description"
           content="Tech blogs and articles on various topics related to Software Development"
