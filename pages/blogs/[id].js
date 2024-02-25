@@ -66,16 +66,15 @@ function id({ data, content, id, headings, topics }) {
         <meta property="og:description" content={data.Abstract} />
         <meta
           property="og:image"
-          content={`https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/public${data.HeaderImage}`}
+          content={`https://raw.githubusercontent.com/BhavinOndhiya/Bits-0f-C0de/main/public${data.HeaderImage}`}
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://blogs.soumya-jit.tech/" />
         <meta property="twitter:title" content={data.Title} />
         <meta property="twitter:description" content={data.Abstract} />
         <meta
           property="twitter:image"
-          content={`https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/public${data.HeaderImage}`}
+          content={`https://raw.githubusercontent.com/BhavinOndhiya/Bits-0f-C0de/main/public${data.HeaderImage}`}
         />
       </Head>
 

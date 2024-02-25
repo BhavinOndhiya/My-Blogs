@@ -1,5 +1,5 @@
 {
-  "name": "bits-of-code",
+  "name": "Blogs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,9 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
     "firebase": "^9.6.8",
-    "firebase-admin": "^10.0.2",
+    "firebase-admin": "^10.3.0",
     "gray-matter": "^4.0.3",
     "markdown-to-txt": "^2.0.0",
     "next": "12.1.0",
